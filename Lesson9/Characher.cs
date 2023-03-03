@@ -1,6 +1,6 @@
 ﻿namespace Lesson9
 {
-    internal class Program
+    internal class Characher
     {
         public static void Main(string[] args)
         {
