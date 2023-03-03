@@ -8,6 +8,7 @@
             var archer = new Archer();
             var mage = new Mage();
             
+            //Property of each unit
             knight.Attack();
             archer.Attack();
             mage.Attack();
